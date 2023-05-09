@@ -1,34 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# faster-reflex ⚡️
 
-## Getting Started
+Can you beat your friends with a faster reflex? ⚡️
 
-First, run the development server:
+## Objective
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+You'll be presented with a target color.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+After hitting _"Start"_ other colors will be shown at a given interval.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+The objective is to click / tap as fast as possible on the box when you see the target color!
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+If you do it before the color changes you win, if not you lose.
 
-## Learn More
+When you got it in time you'll see how fast your reflex was in milliseconds.
 
-To learn more about Next.js, take a look at the following resources:
+Give it a try and challenge your friends!
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Who has the fastest reflexes?
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Anyone there faster than an elephant? 😹
 
-## Deploy on Vercel
+## Training
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+You can choose between several training modes.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Each one presents a different difficulty level by changing colors faster!
+
+Starting at 1s should work for most people.
+
+The 500ms level is pretty challenging!
+
+And 250ms is almost imposible!
+
+But you might be lucky 😂
+
+## Development
+
+`npm run dev`
+
+
+Enjoy!
